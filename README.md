@@ -1,4 +1,4 @@
 # OCMDTool
 Objective C Markdown to html tool
 
-Use MMMarkdown
+Use https://github.com/mdiep/MMMarkdown 
