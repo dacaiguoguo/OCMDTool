@@ -67,7 +67,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "~/bin/aaa/tagBranchTable.md"
+            argument = "/Users/sunyanguo/Documents/workhome/&#x65e0;&#x7ebf;iOS&#x6587;&#x6863;/md/iosapi.md"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
